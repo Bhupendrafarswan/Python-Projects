@@ -23,3 +23,8 @@ Perform Exploratory Data Analysis on Titanic dataset to find survival patterns.
 
 ## Author
 Bhupendra
+
+## How to Run
+
+ -Open terminal in your project folder and run:
+    python titanic_eda.py
